@@ -19,7 +19,7 @@
     </licenses>
 
     <properties>
-        <io.micrometer.verion>1.16.1</io.micrometer.verion>
+        <io.micrometer.verion>1.16.2</io.micrometer.verion>
         <java.version>17</java.version>
         <mongo.evolution.version>7.2.5</mongo.evolution.version>
         <rest.libraries.version>6.2.9</rest.libraries.version>
