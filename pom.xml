@@ -4,7 +4,7 @@
 
     <groupId>com.netcracker.cloud</groupId>
     <artifactId>cloud-core-java-bom-parent</artifactId>
-    <version>11.4.1-SNAPSHOT</version>
+    <version>11.5.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <licenses>

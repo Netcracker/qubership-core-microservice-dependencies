@@ -4,7 +4,7 @@
 
     <groupId>com.netcracker.cloud</groupId>
     <artifactId>cloud-core-java-bom</artifactId>
-    <version>11.4.1-SNAPSHOT</version>
+    <version>11.5.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>cloud-core-java-bom</name>
@@ -20,14 +20,14 @@
 
     <properties>
         <io.micrometer.verion>1.16.1</io.micrometer.verion>
-        <java.version>17</java.version>
-        <mongo.evolution.version>7.4.0</mongo.evolution.version>
-        <rest.libraries.version>6.4.0</rest.libraries.version>
-        <dbaas.client.version>8.5.0</dbaas.client.version>
-        <framework.extension.version>6.4.0</framework.extension.version>
-        <context.propagation.version>7.4.0</context.propagation.version>
-        <maas-client.version>11.4.0</maas-client.version>
-        <core-error-handling.version>3.4.0</core-error-handling.version>
+        <java.version>21</java.version>
+        <mongo.evolution.version>7.4.1-SNAPSHOT</mongo.evolution.version>
+        <rest.libraries.version>6.4.1-SNAPSHOT</rest.libraries.version>
+        <dbaas.client.version>8.5.1-SNAPSHOT</dbaas.client.version>
+        <framework.extension.version>6.4.1-SNAPSHOT</framework.extension.version>
+        <context.propagation.version>7.4.1-SNAPSHOT</context.propagation.version>
+        <maas-client.version>11.4.1-SNAPSHOT</maas-client.version>
+        <core-error-handling.version>3.4.1-SNAPSHOT</core-error-handling.version>
     </properties>
 
     <dependencyManagement>
